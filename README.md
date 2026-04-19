@@ -17,8 +17,9 @@ This project includes a premium frontend UI/UX and a backend contact API that st
 
 ## Tech Stack
 
-- **Frontend:** React, Vite, Tailwind CSS, Framer Motion, React Icons
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose
+- **Frontend:** React, Vite, Framer Motion, React Icons
+- **Backend:** Node.js, Express.js, ChartJS MongoDB,
+- Datasets Like Kaggle.com
 
 ## Folder Structure
 
@@ -117,7 +118,7 @@ Response:
 5. Add environment variables:
    - `PORT=5000`
    - `MONGO_URI=your_mongodb_connection_string`
-   - `CLIENT_URL=https://your-vercel-app-url.vercel.app`
+   - `CLIENT_URL= https://traffic-monitoring-one.vercel.app/
 6. Deploy and copy backend URL.
 
 ## Notes
