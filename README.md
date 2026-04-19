@@ -18,7 +18,7 @@ This project includes a premium frontend UI/UX and a backend contact API that st
 ## Tech Stack
 
 - **Frontend:** React, Vite, Framer Motion, React Icons
-- **Backend:** Node.js, Express.js, ChartJS MongoDB,
+- **Backend:** Node.js, Express.js, ChartJS, MongoDB,
 - Datasets Like Kaggle.com
 
 ## Folder Structure
